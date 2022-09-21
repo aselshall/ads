@@ -21,4 +21,7 @@ This is a pilot study on the assessment of PFAS that is funded by the Head Start
 -	Co-PI Elshall will guide you through the process and provide you with tutorials.
 
 #### Application
--	If you are interested in participating in this multidisciplinary project, please contact Dr. Ahmed S. Elshall [![](https://img.shields.io/badge/aelshall-@fgcu.edu-blue.svg?style=flat)](aelshall@fgcu.edu) and Dr. Osman Karatum [![](https://img.shields.io/badge/okaratum-@fgcu.edu-blue.svg?style=flat)](okaratum@fgcu.edu). Please include your preferred start date and your CV. 
+-	If you are interested in participating in this multidisciplinary project, please contact [Dr. Ahmed S. Elshall](mailto:aelshall@fgcu.edu) and [Dr. Osman Karatum](mailto:okaratum@fgcu.edu). Please include your preferred start date and your CV. 
+
+
+
