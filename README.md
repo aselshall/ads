@@ -11,7 +11,7 @@ This is a pilot study on the assessment of PFAS that is funded by the Head Start
 
 #### Your Profile
 -	You have a background in subsurface flow and reactive transport modeling, or you register for the ENG 5932C Special Topic: Groundwater Hydrology in the Spring 2023 semester (T-R 4:30-5:45 pm).
--	You are a motivated person, who is willing to plunge into unfamiliar disciplines, and explore and test new ideas
+-	You are a motivated person, who is willing to plunge into unfamiliar disciplines, and explore and test new ideas.
 
 #### Start and End Dates
 -	You should be able to start by no later than April 1, 2023 and complete the required tasks by no later than June 30, 2023.
