@@ -16,4 +16,4 @@ Start and End Dates:
 -	A modest stipend of $1,500, which is $15/hour for 100 hours, will be provided.
 -	Co-PI Elshall will guide you through the process and provide you with tutorials.
 #### Application
--	If you are interested in participating in this multidisciplinary project, please contact Dr. Ahmed S. Elshall (aelshall@fgcu.edu) and Dr. Osman Karatum (okaratum@fgcu.edu). Please include your preferred start date and your CV. 
+-	If you are interested in participating in this multidisciplinary project, please contact Dr. Ahmed S. Elshall [![](https://img.shields.io/badge/aelshall-@fgcu.edu-blue.svg?style=flat)](aelshall@fgcu.edu) and Dr. Osman Karatum [![](https://img.shields.io/badge/okaratum-@fgcu.edu-blue.svg?style=flat)](okaratum@fgcu.edu). Please include your preferred start date and your CV. 
