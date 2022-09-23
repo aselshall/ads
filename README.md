@@ -10,7 +10,7 @@ This is a pilot study on the assessment of PFAS that is funded by the Head Start
 -	Present your results at a symposium or conference of your choice (optional) 
 
 #### Your Profile
--	You have a background in subsurface flow and reactive transport modeling, or you register for the ENG 5932C Special Topic: Groundwater Hydrology in the Spring 2023 semester (T-R 4:30-5:45 pm).
+-	You have a background in subsurface flow and reactive transport modeling using MODFLOW and MT3D, or you register for the ENG 5932C Special Topic: Groundwater Hydrology in the Spring 2023 semester (T-R 4:30-5:45 pm).
 -	You are a motivated person, who is willing to plunge into unfamiliar disciplines, and explore and test new ideas.
 
 #### Start and End Dates
