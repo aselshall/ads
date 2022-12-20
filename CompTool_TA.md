@@ -1,4 +1,4 @@
-Dr. Ahmed S. Elshall () is looking for a TA for EGN 1041C Computational Tools for Eng - 2 credits(s) for Spring 2023. 
+[Dr. Ahmed S. Elshall](https://orcid.org/0000-0001-8200-5064) is looking for a TA for EGN 1041C Computational Tools for Eng - 2 credits(s) for Spring 2023. 
 
 #### TA Tasks:
 - Provide tutorial sessions as needed to help the students with their Excel and MATLAB homework
@@ -10,7 +10,7 @@ Dr. Ahmed S. Elshall () is looking for a TA for EGN 1041C Computational Tools fo
 
 #### We Offer:
 - Dr. Elshall will provide the TA with guidance and technical assistance as needed.
-- TA stipendium
+- TA stipendium of $13/hr for a total of 50 hours for the semester.
 
 #### Application:
 If you are interested or if you have additional questions, please email [Dr. Elshall](mailto:aelshall@fgcu.edu). In your email, please include your EGN 1041C grade and a very brief statement of interest.
