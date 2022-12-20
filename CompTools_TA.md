@@ -13,4 +13,4 @@
 - TA stipendium of $13/hr for a total of 50 hours for the semester.
 
 #### Application:
-If you are interested or if you have additional questions, please email [Dr. Elshall](mailto:aelshall@fgcu.edu). In your email, please include your EGN 1041C grade and a very brief statement of interest.
+If you are interested or if have any questions, please email [Dr. Elshall](mailto:aelshall@fgcu.edu). In your email, please include your EGN 1041C grade and a very brief statement of interest.
