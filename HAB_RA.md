@@ -13,4 +13,4 @@ Harmful algal blooms are prevalent issue in marine and freshwaters around the wo
 - A modest stipend of $5,000 will be provided, at a rate of $13/hour for an undergraduate student or $15/hour for a graduate student. 
 
 #### Application
-This is a great opportunity to gain hands-on research experience and contribute to the development of new tools for managing harmful algal blooms. If you are passionate about environmental data science, please send a brief cover letter descripting your Python experience and your interest in the project and your resume to [Dr. Ahmed S. Elshall](mailto:aelshall@fgcu.edu). I look forward to hearing from you!
+This is a great opportunity to gain hands-on research experience and contribute to the development of new tools for managing harmful algal blooms. If you are interested, please send a brief cover letter describing your Python experience, and your resume to [Dr. Ahmed S. Elshall](mailto:aelshall@fgcu.edu). I look forward to hearing from you!
