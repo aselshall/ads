@@ -4,7 +4,7 @@ Harmful algal blooms have become an increasingly prevalent issue in marine and f
 
 #### Your Profile 
 - To be considered for this position, you must have experience in Python and machine learning.
--	You should be able to start by no later than June 1, 2023
+-	You should be able to start by no later than June 1, 2023.
 
 #### We Offer
 - A modest stipend of $5,000 at a rate of $13/hour for an undergraduate student or $15/hour for a graduate student will be provided.
