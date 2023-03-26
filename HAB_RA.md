@@ -4,8 +4,6 @@ Harmful algal blooms have become an increasingly prevalent issue in marine and f
 
 #### Your Profile 
 - To be considered for this position, you must have experience in Python and machine learning.
-
-#### Start and End Dates
 -	You should be able to start by no later than June 1, 2023
 
 #### We Offer
