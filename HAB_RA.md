@@ -9,7 +9,7 @@ Harmful algal blooms have become an increasingly prevalent issue in marine and f
 -	You should be able to start by no later than June 1, 2023
 
 #### We Offer
-- A modest stipend of $5,000 at a rate of $13/hour for an undergraduate student or $15/hour for a graduate student will be provided
+- A modest stipend of $5,000 at a rate of $13/hour for an undergraduate student or $15/hour for a graduate student will be provided.
 
 #### Application
 This is a great opportunity to gain hands-on research experience and contribute to the development of new tools for managing harmful algal blooms. If you are passionate about environmental research, please send your resume and cover letter to [Dr. Ahmed S. Elshall](mailto:aelshall@fgcu.edu). I look forward to hearing from you!
