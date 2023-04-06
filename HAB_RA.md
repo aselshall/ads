@@ -1,6 +1,6 @@
 ### Apply Your Python Skills to Develop a Predictive Tool for Harmful Algal Blooms: Research Assistant Opportunity Available
 
-[Dr. Ahmed S. Elshall](https://orcid.org/0000-0001-8200-5064) is seeking an research assistant to work on harmful algal bloom project. 
+[Dr. Ahmed S. Elshall](https://orcid.org/0000-0001-8200-5064) is seeking a research assistant to work on a harmful algal bloom project. 
 
 Harmful algal blooms are prevalent issue in marine and freshwaters around the world, causing damage to both ecosystem health and human health. The toxic dinoflagellate Karenia brevis has caused significant economic damage along the West Florida coast in recent years. As a research assistant, you will be working to develop a REd tide water quality Management Application (REMApp). The overarching objective of this project is to develop a machine learning-based tool for predicting red tide in the Gulf of Mexico along the West Florida Shelf. You will  have the opportunity to explore the impact of various factors on these blooms, including upwelling, and wind speed and direction. Additionally, you will investigate the role of river flows and the nutrients they supply in regulating these algal blooms. 
 
