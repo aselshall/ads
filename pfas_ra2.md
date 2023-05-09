@@ -14,7 +14,7 @@ This is a pilot study on the assessment of PFAS that is funded by the Head Start
 -	You are a person, who is willing to plunge into unfamiliar disciplines, and explore and test new ideas.
 
 #### Start and End Dates
--	You should be able to start by no later than April 1, 2023 and complete the required tasks by no later than June 30, 2023.
+-	You should be able to start by no later than May 15, 2023 and complete the required tasks by no later than June 30, 2023.
 
 #### We Offer
 -	A modest stipend of $1,500, which is $15/hour for 100 hours, will be provided.
