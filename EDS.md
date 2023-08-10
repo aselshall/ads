@@ -17,27 +17,27 @@ These are just a few examples of the many Python packages that are available for
 In this course you will learn the basic programming skills and the Python tools for data acquisition, analysis, visualization, and sharing real-world datasets that are commonly used at the interface of the atmosphere, hydrosphere, geosphere, and biosphere. This course introduces you to the Python programming language and packages that are specifically targeted to environmental data analysis. You will be expected to work individually or in a group to develop a research question or a practical problem, and use python tools to process the raw data to provide useful information and solutions. No prior python programming experience is required.  
 By the end of this course, you will be able to perform the following tasks:<br>
 
-Demonstrate Proficiency in Python Programming:
+1. Demonstrate Proficiency in Python Programming:
 - Write Python code to solve basic programming problems.
 - Apply control structures (loops, conditionals) effectively in Python.
 - Utilize functions and modules to modularize code.
 
-Access, Manage, and Visualize Scientific Data:
+2. Access, Manage, and Visualize Scientific Data:
 - Retrieve environmental datasets from various sources using Python libraries.
 - Organize and preprocess data to prepare it for analysis.
 - Visualize data using relevant Python visualization libraries.
 
-Perform Data Analysis on Environmental Datasets:
+3. Perform Data Analysis on Environmental Datasets:
 - Apply statistical and analytical techniques to extract insights from datasets.
 - Perform exploratory data analysis to understand data patterns and trends.
 - Utilize Python libraries for data manipulation and analysis.
 
-Apply Python to Atmospheric, Oceanic, and Terrestrial Data:
+4. Apply Python to Atmospheric, Oceanic, and Terrestrial Data:
 - Use Python to analyze datasets related to atmospheric, oceanic, and terrestrial systems.
 - Identify relevant features and variables within these datasets.
 - Extract meaningful information to gain insights into environmental phenomena.
 
-Communicate and Share Results:
+5. Communicate and Share Results:
 - Document your code effectively to communicate your analysis process.
 - Create visualizations and reports to present your findings.
 - Share your work using appropriate sharing platforms or formats.
