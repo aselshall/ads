@@ -10,6 +10,7 @@ In addition, you will explore packages that are specifically targeted to water r
 - GeoPandas for working with geospatial data, PyNIO for reading and writing various environmental data formats,
 - PyAOS for working with atmospheric and oceanographic data,
 - and PyNGL for creating high-quality visualizations of environmental data.<br>
+
 These are just a few examples of the many Python packages that are available for working with water resources and environmental data. In addition, you will be encouraged to share your discoveries with the class, either through presentations or brief summaries. You will work individually or in small groups and the instructor will be available to provide guidance and support. By including self-directed learning opportunities in the course schedule, you will explore and experiment with a variety of Python packages that are of interest to you. This is to help you to build a deeper understanding of the packages and their applications in water resources and environmental data analysis, while also promoting independent learning and critical thinking skills.
 
 #### Learning Outcomes: 
