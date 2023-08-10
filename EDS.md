@@ -18,9 +18,9 @@ In this course you will learn the basic programming skills and the Python tools 
 By the end of this course, you will be able to perform the following tasks:<br>
 
 1. Demonstrate Proficiency in Python Programming:
-  - Write Python code to solve basic programming problems.
-  - Apply control structures (loops, conditionals) effectively in Python.
-  - Utilize functions and modules to modularize code.
+-- Write Python code to solve basic programming problems.
+-- Apply control structures (loops, conditionals) effectively in Python.
+-- Utilize functions and modules to modularize code.
 
 2. Access, Manage, and Visualize Scientific Data:
 - Retrieve environmental datasets from various sources using Python libraries.
