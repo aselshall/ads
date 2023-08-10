@@ -14,10 +14,30 @@ In addition, you will explore packages that are specifically targeted to water r
 These are just a few examples of the many Python packages that are available for working with water resources and environmental data. In addition, you will be encouraged to share your discoveries with the class, either through presentations or brief summaries. You will work individually or in small groups and the instructor will be available to provide guidance and support. By including self-directed learning opportunities in the course schedule, you will explore and experiment with a variety of Python packages that are of interest to you. This is to help you to build a deeper understanding of the packages and their applications in water resources and environmental data analysis, while also promoting independent learning and critical thinking skills.
 
 #### Learning Outcomes: 
-In this course you will learn the basic programming skills and the Python tools for data acquisition, analysis, visualization, and sharing real-world datasets that are commonly used at the interface of the atmosphere, hydrosphere, geosphere, and biosphere. You will be expected to work individually or in a group to develop a research question or a practical problem, and use python tools to process the raw data to provide useful information and solutions. No prior python programming experience is required. This course introduces you to the Python programming language and packages that are specifically targeted to environmental data analysis. The specific learning outcomes are as follows. 
-- Understand basic programming concepts
-- Write python codes to manage, analyze, visualize, and share scientific data 
-- Use Python to analyze datasets that are related atmospheric, ocean, and terrestrial systems to extract useful information and knowledge  
+In this course you will learn the basic programming skills and the Python tools for data acquisition, analysis, visualization, and sharing real-world datasets that are commonly used at the interface of the atmosphere, hydrosphere, geosphere, and biosphere. You will be expected to work individually or in a group to develop a research question or a practical problem, and use python tools to process the raw data to provide useful information and solutions. No prior python programming experience is required. This course introduces you to the Python programming language and packages that are specifically targeted to environmental data analysis. 
+By the end of this course, you will be able to:<br>
+Demonstrate Proficiency in Python Programming:
+- Write Python code to solve basic programming problems.
+- Apply control structures (loops, conditionals) effectively in Python.
+- Utilize functions and modules to modularize code.
+Access, Manage, and Visualize Scientific Data:
+- Retrieve environmental datasets from various sources using Python libraries.
+- Organize and preprocess data to prepare it for analysis.
+- Visualize data using relevant Python visualization libraries.
+Perform Data Analysis on Environmental Datasets:
+- Apply statistical and analytical techniques to extract insights from datasets.
+- Perform exploratory data analysis to understand data patterns and trends.
+- Utilize Python libraries for data manipulation and analysis.
+Apply Python to Atmospheric, Oceanic, and Terrestrial Data:
+- Use Python to analyze datasets related to atmospheric, oceanic, and terrestrial systems.
+- Identify relevant features and variables within these datasets.
+- Extract meaningful information to gain insights into environmental phenomena.
+Communicate and Share Results:
+- Document your code effectively to communicate your analysis process.
+- Create visualizations and reports to present your findings.
+- Share your work using appropriate sharing platforms or formats.
+By achieving these objectives, you will be well-equipped to leverage Python for in-depth analysis of environmental data across various domains.
+
 
 Instructor: [Dr. Ahmed S. Elshall](https://orcid.org/0000-0001-8200-5064) <br>
 If you have any questions, please email [Dr. Elshall](mailto:aelshall@fgcu.edu).
