@@ -28,7 +28,7 @@ In this course you will learn the basic programming skills and the Python tools 
 
 3. **Perform Data Analysis on Environmental Datasets**:
     - Apply statistical and analytical techniques to extract insights from datasets.
-    - Perform exploratory data analysis (EDA) to understand data patterns and trends.
+    - Perform exploratory data analysis to understand data patterns and trends.
     - Utilize Python libraries for data manipulation and analysis.
 
 4. **Apply Python to Atmospheric, Oceanic, and Terrestrial Data**:
