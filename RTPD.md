@@ -28,9 +28,11 @@ As a Postdoc on this project, you will work with a team of researchers to develo
 - Excellent communication skills for collaboration within an interdisciplinary team
 - Track record of publication and research presentations
 
-Benefits:
+##### Benefits:
 - Competitive postdoctoral salary with benefits
 - Flexibility to work remotely, even from outside the state of Florida
 - Access to state-of-the-art computational resources 
 - Opportunity to collaborate with leading experts in oceanography and environmental science
 - Contribute to impactful applied research that directly benefits the community 
+
+If you are ready to make a difference in the field of environmental science and machine learning, we encourage you to apply. Join us in unraveling the complexities of red tide dynamics and aiding in the sustainable management where the watershed meets the nearshore marine ecosystem. This position is for one year with the possibility of extension for another year depending on funding and performance.  To apply, please submit your cover letter, CV, and contact information of two references as a one pdf file to aelshall@fgcu.edu. The review process will begin immediately and will continue until the position is filled. Our commitment to diversity and inclusion: We welcome applications from candidates of all backgrounds.
