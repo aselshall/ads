@@ -11,7 +11,8 @@ In addition, you will explore packages that are specifically targeted to water r
 - PyHSPF for analyzing watershed hydrology, water quality, and sediment transport
 - PyNGL for creating high-quality visualizations of environmental data
 - PyNIO for reading and writing various environmental data formats
-- OWSLib for accessing and manipulating web services for environmental data<br>
+- OWSLib for accessing and manipulating web services for environmental data
+<br> 
 These are just a few examples of the many Python packages that are available for working with water resources and environmental data. By including self-directed learning opportunities in the course schedule, you will explore and experiment with a variety of Python packages that are of interest to you. You will be expected to work individually or in a group to develop a research question or a practical problem, and use python tools to process the raw data to provide useful information and solutions. The instructor will be available to provide guidance and support. In addition, you will be encouraged to share your discoveries with the class through presentations. In summary, the learning objectives are to help you to build a deeper understanding of these packages and their applications in water resources and environmental data analysis, while also promoting independent learning and critical thinking skills.
 
 #### Learning Outcomes: 
