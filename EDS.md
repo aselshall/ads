@@ -4,15 +4,14 @@
 Environmental data science is an emerging interdisciplinary field that applies computational and statistical methods to analyze environmental data. This course is an introduction to programming and scientific data analysis for water and environmental scientists and engineers. This course is project-based and research oriented.  We will explore the principles of environmental data science and its applications to environmental research using Python, a versatile and widely-used programming language for data science. You will learn how to use Python to manage, analyze, and visualize water resources and environmental data. The course will also briefly introduce machine learning and data mining techniques for analyzing complex environmental datasets. All of which can be efficiently implemented using Python's robust libraries such as pandas, NumPy, xarray, Matplotlib, scikit-learn, statsmodels, and Tensorflow. <br>
 
 In addition, you will explore packages that are specifically targeted to water resources and environmental data analysis through a self-directed learning component. Few of these packages are:
-- Cartopy for cartographic projections and geospatial data visualization
-- GeoPandas for working with geospatial data
+- Cartopy, GeoCAT and VAPOR for cartographic projections and geospatial data visualization and analysis 
+- Sciencebasepy for programmatic interaction with the USGS ScienceBase platform
+- Geemap for cloud-based geospatial analysis with Earth Engine 
 - FloPy for creating, running, and post-processing MODFLOW groundwater models
 - PyAOS for working with atmospheric and oceanographic data
-- PyHSPF for analyzing watershed hydrology, water quality, and sediment transport
-- PyNGL for creating high-quality visualizations of environmental data
-- PyNIO for reading and writing various environmental data formats
-- OWSLib for accessing and manipulating web services for environmental data<br>
-<br> 
+- PyNGL and PyNIO for creating high-quality visualizations of environmental data
+- OWSLib for accessing and manipulating web services for environmental data <br>
+
 These are just a few examples of the many Python packages that are available for working with water resources and environmental data. By including self-directed learning opportunities in the course schedule, you will explore and experiment with a variety of Python packages that are of interest to you. You will be expected to work individually or in a group to develop a research question or a practical problem, and use python tools to process the raw data to provide useful information and solutions. The instructor will be available to provide guidance and support. In addition, you will be encouraged to share your discoveries with the class through presentations. In summary, the learning objectives are to help you to build a deeper understanding of these packages and their applications in water resources and environmental data analysis, while also promoting independent learning and critical thinking skills.
 
 #### Learning Outcomes: 
