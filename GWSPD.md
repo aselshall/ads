@@ -11,7 +11,7 @@ This is an EPA-funded and collaborative project between the Department of Bioeng
 integrated modeling approach.
 
 #### Responsibilities:
-As a postdoctoral research associate your main responsibilities include:
+As a postdoctoral researche your main responsibilities include:
 - Use regional density-dependent groundwater flow models to assess the impact of climate change including precipitation and sea-level rise on groundwater resources
 - Evaluate the potential of nature-based solutions on reducing the impacts of climate change at different scales
 - Conduct sensitivity and uncertainty analyses to enhance prediction accuracy
