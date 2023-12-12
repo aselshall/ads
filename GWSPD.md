@@ -23,14 +23,14 @@ As a postdoctoral researche your main responsibilities include:
 - Expereince in land-use and land-cover change with tools such as ArcGIS or QGIS
 - Programming skilles such as Python, R, or MATLAB
 
-#### Prefered Qualifications:
-Experience in or interest to learn:
+#### Prefered Qualifications:<br> 
+Experience in or interest to learn:<br>
 - Google Earth engine and geemap
 - Jupyter interactive computing platform (e.g., JupyterLab, JupyterBook, JupyterHub , DASK, etc.)
 - Machine and deep learning models (e.g, LSTM) and surrogate modeling
 - Nature-based infrastructure
 
-##### Benefits:
+#### Benefits:
 - Competitive postdoctoral salary with benefits
 - Access to state-of-the-art computational resources 
 - Contribute to impactful research that directly informs policy and benefits the community 
