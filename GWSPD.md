@@ -1,33 +1,38 @@
-### Postdoc Position: Groundwater modeling, climate change, and nature-based infrastructure
+### Postdoc Position: Groundwater modeling, climate change, land-use land-cover change, and machine learning
 
-Position: Postdoctoral Researcher <br>
-Project: Groundwater modeling, climate change, and nature-based solutions <br>
-Location: Gulf of Mexico, West Florida Shelf <br>
+Position: Postdoctoral Researcher (3 years)<br>
+Project: Groundwater sustainability, climate change, and nature-based solutions <br>
+Location: South Florida <br>
 
 Join this multidisciplinary project and collaborate with a dynamic team of researchers to advance the science and practice of groundwater sustainability, and the role of nature-based infrastructure in reducing the impacts of climate change.   
 
 ##### Project Overview:
-This is an EPA-funded and collaborative project between the Department of Bioengineering, Civil Engineering, and Environmental Engineering at Florida Gulf Coast University, and the Department of Earth, Ocean, and Atmospheric Science at Florida State University. The project focuses on addressing the challenges of sea-level rise, changing precipitation patterns, and rapid socioeconomic development, which pose threats to groundwater and community resilience in South Florida. The project will assess the effectiveness of nature-based solutions in enhancing groundwater recharge and maintaining ecosystem functions through an
-integrated modeling approach.
+This is an EPA-funded and collaborative project between the Department of Bioengineering, Civil Engineering, and Environmental Engineering at Florida Gulf Coast University, and the Department of Earth, Ocean, and Atmospheric Science at Florida State University. The project focuses on addressing the challenges of sea-level rise, changing precipitation patterns, and rapid socioeconomic development, which pose threats to groundwater and community resilience in South Florida. The project will assess the efficacy of nature-based solutions in enhancing groundwater recharge and maintaining ecosystem functions through an integrated modeling approach combining surface-water groundwater (SW-GW) models and human activities.
 
 #### Responsibilities:
 As a postdoctoral researche your main responsibilities include:
-- Use regional density-dependent groundwater flow models to assess the impact of climate change including precipitation and sea-level rise on groundwater resources
-- Evaluate the potential of nature-based infrastructure on reducing the impacts of climate change at different scales
-- Conduct sensitivity and uncertainty analyses to enhance prediction accuracy
-- Disseminate the research findings by publishing them in peer-reviewed journals, by delivering presentations at scientific meetings, and through other outlets 
-
+- Use an existing regional density-dependent SW-GW model to assess the impact of climate change (e.g., precipitation and sea-level rise) on groundwater resources 
+- Evaluate the potential of nature-based infrastructure in reducing the impacts of climate change at different scales
+- Develop machine learning-based surrogate models across scales for different purposes 
+- Disseminate research findings using interactive notebooks
+- Publish research findings in peer-reviewed journals, and presentat at scientific meetings
+  
 #### Qualifications:
-- PhD in Civil and Environmental Engineering, Hydrogeology, Hydrology, or a related field
-- Strong background in numerical groundwater modeling including MODFLOW family 
+- PhD in Civil and Environmental Engineering, hydrogeology, hydrology, or a related field
+- Strong background in numerical groundwater modeling including MODFLOW family
+- Expereince in land-use and land-cover change with tools such as ArcGIS or QGIS
 - Programming skilles such as Python, R, or MATLAB
-- GIS skills such as ArcGIS or QGIS
-- Experience with handling large and diverse datasets
-- Track record of publication and research presentations
+
+#### Prefered Qualifications:
+Experience in or interest to learn:
+- Google Earth engine and geemap
+- Jupyter interactive computing platform (e.g., JupyterLab, JupyterBook, JupyterHub , DASK, etc.)
+- Machine and deep learning models (e.g, LSTM) and surrogate modeling
+- Nature-based infrastructure
 
 ##### Benefits:
 - Competitive postdoctoral salary with benefits
 - Access to state-of-the-art computational resources 
-- Contribute to impactful applied research that directly benefits the community 
+- Contribute to impactful research that directly informs policy and benefits the community 
 
-The position will be officially posted soon and open for applications.For information, please contact [Ahmed S. Elshall](mailto:aelshall@fgcu.edu)
+The position will be officially posted soon for applications.For information. Please contact [Ahmed S. Elshall](mailto:aelshall@fgcu.edu), if you want to receive the application link once the position is posted.
