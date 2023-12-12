@@ -19,7 +19,7 @@ As a postdoctoral researche your main responsibilities include:
   
 #### Qualifications:
 - PhD in Civil and Environmental Engineering, hydrogeology, hydrology, or a related field
-- Strong background in numerical groundwater modeling including MODFLOW family
+- Strong background in numerical groundwater modeling particularly MODFLOW family
 - Expereince in land-use and land-cover change with tools such as ArcGIS or QGIS
 - Programming skilles such as Python, R, or MATLAB
 
