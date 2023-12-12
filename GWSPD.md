@@ -35,4 +35,4 @@ Experience in or interest to learn:
 - Access to state-of-the-art computational resources 
 - Contribute to impactful research that directly informs policy and benefits the community 
 
-The position will be officially posted soon for applications.For information. Please contact [Ahmed S. Elshall (aelshall@fgcu.edu)](mailto:aelshall@fgcu.edu), if you want to receive the application link once the position is posted.
+The position will be officially posted soon for applications.For information. Please contact Ahmed S. Elshall [(aelshall@fgcu.edu)](mailto:aelshall@fgcu.edu), if you want to receive the application link once the position is posted.
