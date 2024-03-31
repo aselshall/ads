@@ -1,7 +1,7 @@
-### Postdoc Position: Groundwater modeling, climate change, land-use land-cover change, and machine learning
+### Postdoc Position: Groundwater modeling, nature-based infrastructure, climate change, and machine learning
 
 Position: Postdoctoral Researcher (3 years)<br>
-Project: Groundwater sustainability, climate change, and nature-based solutions <br>
+Project: Nature-based infrastructure for enhancing climate resiliency of groundwater resources in South Florida: An integrated modeling approach<br>
 Location: South Florida <br>
 
 Join this multidisciplinary project and collaborate with a dynamic team of researchers to advance the science and practice of groundwater sustainability, and the role of nature-based infrastructure in reducing the impacts of climate change.   
@@ -25,9 +25,8 @@ As a postdoctoral researche your main responsibilities include:
 
 #### Prefered Qualifications:<br> 
 Experience in or interest to learn:<br>
-- Google Earth engine and geemap
-- Jupyter interactive computing platform (e.g., JupyterLab, JupyterBook, JupyterHub , DASK, etc.)
-- Machine and deep learning models (e.g, LSTM) and surrogate modeling
+- Google Earth engine and GeeMap
+- Machine learning models and surrogate modeling
 - Nature-based infrastructure
 
 #### Benefits:
@@ -35,4 +34,4 @@ Experience in or interest to learn:<br>
 - Access to state-of-the-art computational resources 
 - Contribute to impactful research that directly informs policy and benefits the community 
 
-The position will be officially posted soon for applications.For information. Please contact Ahmed S. Elshall [aelshall@fgcu.edu](mailto:aelshall@fgcu.edu), if you want to receive the application link once the position is posted.
+For information, please contact Ahmed S. Elshall [aelshall@fgcu.edu](mailto:aelshall@fgcu.edu).
