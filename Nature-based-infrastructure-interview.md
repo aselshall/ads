@@ -4,11 +4,11 @@
 
 ### Introduction and Overview (5 minutes)
 - Brief introduction of interviewers
-- Project objectives:
-(1) Impact Assessments: Assess the impacts of multiple climate factors on various groundwater-related hydrological and ecological features under future climate and management scenarios.
-(2) Impact Mitigation: Evaluate NBIFs to mitigate the impact of climate change on water resources in south Florida. 
-(3) Web-based Platform: Develop the platform for data management, analytics, and visualization to improve the access, understanding, and application of the project results for water resources management and community engagement. 
-(4) Outreach Campaign and Education: Promote citizen awareness of the importance of water resources and engagement in sustainable management practices under climate change. 
+- Project objectives:  
+**(1) Impact Assessments:** Assess the impacts of multiple climate factors on various groundwater-related hydrological and ecological features under future climate and management scenarios.  
+**(2) Impact Mitigation:** Evaluate NBIFs to mitigate the impact of climate change on water resources in south Florida.   
+**(3) Web-based Platform:** Develop the platform for data management, analytics, and visualization to improve the access, understanding, and application of the project results for water resources management and community engagement.   
+**(4) Outreach Campaign and Education:** Promote citizen awareness of the importance of water resources and engagement in sustainable management practices under climate change.   
 
 ### Candidate Presentation (10 minutes)
 - Candidate presents their previous work related to the project.
@@ -16,7 +16,7 @@
 
 ### Q&A on Presentation (5 minutes)
 1. Can you elaborate on the specific challenges you faced while working on your previous project and how you overcame them?
-2. How do you see your previous work with MODFLOW contributing to our current project on surface water-groundwater modeling?
+2. How do you see your previous work contributing to our current project on surface water-groundwater modeling?
 3. Are there any methodologies or techniques you used in your previous work that you think could improve our current modeling efforts?
 
 ### General Interview Questions (5 minutes)
