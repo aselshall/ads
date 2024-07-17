@@ -10,6 +10,7 @@ We are seeking an enthusiastic undergraduate student to join our EPA-funded proj
 - Gain hands-on experience in water resources and environmental research by working with faculty members and postdocs from FGCU, FSU, and UF
 - Engage in a three-year position providing a comprehensive learning experience in water resources and water quality 
 - Flexible working hours with compensation as a Research Assistant (RA)
+  
 For more information, visit our [EPA Fertilizers and Pesticides Project Website](https://atmos.eoas.fsu.edu/~mye/Pesticides.php)
 
 ### Application:
