@@ -1,6 +1,6 @@
 # Research Assistant Position on Water Quality
 
-We are seeking an enthusiastic undergraduate student to join our EPA-funded project on fertilizers and pesticides in South Florida's agricultural areas. No prior experience is required. We will provide training in both fieldwork and water quality laboratory analysis.
+We are seeking an enthusiastic student to join our EPA-funded project on fertilizers and pesticides in South Florida's agricultural areas. No prior experience is required. We will provide training in both fieldwork and water quality laboratory analysis.
 
 ### Responsibilities:
 - Participate in fieldwork at Immokalee, FL, including weather station and soil moisture sensor deployment, water quality sensor operation, tracer tests, groundwater sampling,  flow measurements, and drone remote sensing
