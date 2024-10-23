@@ -1,4 +1,4 @@
-### Undergraduate Research Assistant Position: Web-Based Platform Development
+### [Undergraduate Research Assistant Position: Web-Based Platform Development](https://aselshall.github.io/ads/nbi-ra)
 
 We are seeking a motivated **Undergraduate Research Assistant** to assist with an Environmental Protection Agency (EPA)-funded project "Nature-based infrastructure for groundwater climate resilience in South Florida. One task focuses on building a web-based platform for groundwater management and decision support. The platform will include data analytics, visualization tools, and GIS integration to present research findings in an accessible, interactive format for both technical and non-technical users.
 
