@@ -9,8 +9,9 @@ We are seeking a motivated **Undergraduate Research Assistant** to assist with a
 
 **Responsibilities:**
 - Assist in developing a web-based platform 
-- Integrate GIS functionalities for visualizing land-use and groundwater model simulation results 
+- Integrate GIS functionalities for visualizing land-use and groundwater model simulation results
 - Work with project data to create interactive maps, data visualizations, and decision-support tools
+- Add AI-based chatbox to he platform
 - Collaborate with the project team to update the platform as new data and results become available
 - Help manage and share project data on platforms like GitHub and Hydroshare
 
