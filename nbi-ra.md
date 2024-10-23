@@ -14,7 +14,7 @@ We are seeking a motivated **Undergraduate Research Assistant** to assist with a
 - Collaborate with the project team to update the platform as new data and results become available
 - Help manage and share project data on platforms like GitHub and Hydroshare
 
-**Preferred Skills (not required):**
+**Preferred Skills:**
 - Python skills, with experience in web development frameworks  
 - Familiarity with GIS tools and spatial data management (e.g, Leaflet or GeoDjango)
 - Basic knowledge of front-end development (HTML, CSS, JavaScript)
