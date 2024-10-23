@@ -8,11 +8,11 @@ We are seeking a motivated **Undergraduate Research Assistant** to assist with a
 - **Duration:** This is a multi-year project, and the position is available for the duration of the project, subject to performance.
 
 **Responsibilities:**
-- Assist in developing a web-based platform (e.g., using Python-based tools such as Django and GeoDjango).
-- Integrate GIS functionalities for visualizing land-use and groundwater model simulation results (e.g., using tools like Leaflet)
-- Work with project data to create interactive maps, data visualizations, and decision-support tools.
-- Collaborate with the project team to update the platform as new data and results become available.
-- Help manage and share project data on platforms like GitHub and Hydroshare.
+- Assist in developing a web-based platform 
+- Integrate GIS functionalities for visualizing land-use and groundwater model simulation results 
+- Work with project data to create interactive maps, data visualizations, and decision-support tools
+- Collaborate with the project team to update the platform as new data and results become available
+- Help manage and share project data on platforms like GitHub and Hydroshare
 
 **Preferred Skills (not required):**
 - Python skills, with experience in web development frameworks  
