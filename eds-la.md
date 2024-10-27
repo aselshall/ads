@@ -6,4 +6,4 @@ We are seeking a Learning Assistant (LA) for *EGN 4930/EGN 5932C: Environmental 
 - **Compensation**: $15/hour
 - **Course Syllabus**: [https://aselshall.github.io/eds](https://aselshall.github.io/eds/)
 - **Questions and Apply** Contact Dr. Ahmed S. Elshall at [aelshall@fgcu.edu](mailto:aelshall@fgcu.edu)
-- **Learn More about LA**: [LA Position Flyer](https://tr.ee/gVBP5V4uoA)
+- **LA Flyer to Learn More**: [https://tr.ee/gVBP5V4uoA](https://tr.ee/gVBP5V4uoA)
