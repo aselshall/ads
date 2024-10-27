@@ -1,4 +1,4 @@
-### Teaching Assistant (TA) Position Available: EGN 4930/EGN 5932C Environmental Data Science
+### [Teaching Assistant (TA) Position Available: EGN 4930/EGN 5932C Environmental Data Science](https://aselshall.github.io/ads/eds-ta)
 
 We are seeking a Teaching Assistant (TA) for *EGN 4930/EGN 5932C: Environmental Data Science*. This course provides an introduction to Python with applications in environmental and water resources fields. Primary TA responsibilities include grading assignments, supporting student projects, and providing general assistance throughout the course. Attendance in class is not required, but proficiency in Python is necessary.
 
