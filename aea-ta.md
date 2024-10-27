@@ -1,4 +1,4 @@
-### [TA Position: EGN 6430 - Advanced Engineering Analysis](https://aselshall.github.io/aes-ta)
+### [TA Position: EGN 6430 - Advanced Engineering Analysis](https://aselshall.github.io/aea-ta)
 
 We are seeking a TA for Spring 2025 to assist with grading and other tasks as needed in ENG 6430 Advanced Engineering Analysis
 
