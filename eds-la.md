@@ -2,7 +2,7 @@
 
 We are seeking a Learning Assistant (LA) for *EGN 4930/EGN 5932C: Environmental Data Science*. This course provides an introduction to Python with applications in environmental and water resources fields.  
 
-- **Your Tasks**: Attend class sessions on Tuesdays and Thursdays from 4:30 to 5:45 pm to assist students
+- **Your Role**: Attend class sessions on Tuesdays and Thursdays from 4:30 to 5:45 pm to assist students
 - **Compensation**: $15/hour
 - **Course Syllabus**: [https://aselshall.github.io/eds](https://aselshall.github.io/eds/)
 - **Questions and Apply** Contact Dr. Ahmed S. Elshall at [aelshall@fgcu.edu](mailto:aelshall@fgcu.edu)
