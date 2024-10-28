@@ -6,6 +6,6 @@ We are seeking a TA for Spring 2025 to assist with grading and other tasks as ne
 - Strong grasp of advanced math, numerical methods, and statistics.
 - Familiarity with mathematical modeling preferred.
 
-**Pay:** $17/hour
+**Pay:** $16/hour
 
 To apply please conteact Dr. Ahmed S. Elshall at [aelshall@fgcu.edu](mailto:aelshall@fgcu.edu).
