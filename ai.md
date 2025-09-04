@@ -12,9 +12,9 @@ The LLM-powered decision-support dashboard is an innovation in stakeholder engag
 ## Presentation
 Download presentation:
 
-## TA for — Environmental Data Science Spring 2026
+## TA for Environmental Data Science — Spring 2026
 
-If you are interested in a TA position for the Environmental Data Science course at FGCU, please contact Ahmed Elshall at [aelshall@fgcu.edu](mailto:aelshall@fgcu.edu).
+If you are interested in a TA position for the Environmental Data Science course, please contact Ahmed Elshall at [aelshall@fgcu.edu](mailto:aelshall@fgcu.edu).
 
 - Course info: [https://aselshall.github.io/eds](https://aselshall.github.io/eds)
 - Course textbook: [https://aselshall.github.io/edsbook](https://aselshall.github.io/edsbook)
