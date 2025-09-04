@@ -12,7 +12,8 @@ The LLM-powered decision-support dashboard is an innovation in stakeholder engag
 - Travel support for 1 student (or 2 going together) to present at a national conference (e.g., AGU Fall Meeting, San Francisco - One week).
 
 ### Presentation
-Download presentation:
+Download slides: [Link](https://github.com/aselshall/ads/blob/main/files/Dashboard_presentation.pptx)
+
 
 ### To Get Started
 - To get started, please contact Ahmed Elshall at [aelshall@fgcu.edu](mailto:aelshall@fgcu.edu) and Mewcha Gebremedhin at [mgebremedhin@fgcu.edu](mailto:mgebremedhin@fgcu.edu).
