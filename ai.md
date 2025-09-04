@@ -15,7 +15,7 @@ The LLM-powered decision-support dashboard is an innovation in stakeholder engag
 Download presentation:
 
 ### To Get Started
-- To get started, please contact Ahmed Elshall [aelshall@fgcu.edu](mailto:aelshall@fgcu.edu) and Mewcha A. Gebremedhin [mgebremedhin@fgcu.edu](mailto:mgebremedhin@fgcu.edu).
+- To get started, please contact Ahmed Elshall at [aelshall@fgcu.edu](mailto:aelshall@fgcu.edu) and Mewcha Gebremedhin at [mgebremedhin@fgcu.edu](mailto:mgebremedhin@fgcu.edu).
 - For more information please feel free to schedule a meeting with Ahmed Elshall using this [link](https://outlook.office.com/bookwithme/user/0ef6bb499a744b9baf3c2c5ba2e9bce0@fgcu.edu?anonymous&ep=bwmEmailSignature)
 
 ### Extra: TA Needed for Environmental Data Science — Spring 2026
