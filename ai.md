@@ -9,7 +9,7 @@ The LLM-powered decision-support dashboard is an innovation in stakeholder engag
 - Frontend guidance for a browser-based UI
 - Manuscript mentorship with the goal of a high quality **peer-reviewed publication** (beyond a capstone report)
 - Open-access publication fees covered
-- Travel support for 1 student (maybe 2) to present at an international conference (e.g., AGU Fall Meeting, San Francisco - One week).
+- Travel support for 1 student (maybe 2) to present at an national conference (e.g., AGU Fall Meeting, San Francisco - One week).
 
 ### Presentation
 Download presentation:
