@@ -21,4 +21,4 @@ If you are interested in a TA position for the Environmental Data Science course
 - Course info: [https://aselshall.github.io/eds](https://aselshall.github.io/eds)
 - Course textbook: [https://aselshall.github.io/edsbook](https://aselshall.github.io/edsbook)
 
-The previous TA (Spring 2024, 2025) is now working at Google Earth Engine, CA. 
+The previous TA Thalia Valle Chavez (Spring 2024, 2025) is now working at Google Earth Engine, CA. 
