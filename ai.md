@@ -21,7 +21,7 @@ Download slides: [Link](https://github.com/aselshall/ads/blob/main/files/Dashboa
 
 
 ## A Second Project: Machine Learning and Red Tides
-
+This is another project that is funded by NSF [Link]. We have the method developed and an exiting machine learning model that we want to extend and improve. We just need someone to do the work. For the project we offer the same: project data + existing ML model, close guidance and support from Ahmed Elshall, manuscrip mentorship (and we can have amny publications from this project), covering publication fess in reputable open-access journals, and travel support for 1 or 2 students to AGU. Here are some specific research questions that you will be working on:
 - **[Scenario Analysis of Nutrient Loading Mitigation to Reduce Red Tide Risk](https://github.com/aselshall/rm/blob/main/hw/projects/p04.md)**: Involves enhancing harmful algal bloom mitigation through advanced machine learning
 - **[Analyzing the Role of Temperature in Red Tide Dynamics Using Machine Learning](https://github.com/aselshall/rm/blob/main/hw/projects/p03.md)**: Involves enhancing harmful algal bloom prediction through advanced machine learning
 - **[Novel Deep Learning Architecture for Prediction and Uncertainty Analysis of Red Tide](https://github.com/aselshall/ads/blob/main/enkf.md)**: Improve harmful algal bloom prediction using deep learning with uncertainty analysis
