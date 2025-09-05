@@ -19,7 +19,14 @@ Download slides: [Link](https://github.com/aselshall/ads/blob/main/files/Dashboa
 - To get started, please contact Ahmed Elshall at [aelshall@fgcu.edu](mailto:aelshall@fgcu.edu) and Mewcha Gebremedhin at [mgebremedhin@fgcu.edu](mailto:mgebremedhin@fgcu.edu).
 - For more information please feel free to schedule a meeting with Ahmed Elshall using this [link](https://outlook.office.com/bookwithme/user/0ef6bb499a744b9baf3c2c5ba2e9bce0@fgcu.edu?anonymous&ep=bwmEmailSignature)
 
-### Extra: TA Needed for Environmental Data Science — Spring 2026
+
+## A Second Project: Machine Learning and Red Tides
+
+- **[Scenario Analysis of Nutrient Loading Mitigation to Reduce Red Tide Risk](https://github.com/aselshall/rm/blob/main/hw/projects/p04.md)**: Involves enhancing harmful algal bloom mitigation through advanced machine learning
+- **[Analyzing the Role of Temperature in Red Tide Dynamics Using Machine Learning](https://github.com/aselshall/rm/blob/main/hw/projects/p03.md)**: Involves enhancing harmful algal bloom prediction through advanced machine learning
+- **[Novel Deep Learning Architecture for Prediction and Uncertainty Analysis of Red Tide](https://github.com/aselshall/ads/blob/main/enkf.md)**: Improve harmful algal bloom prediction using deep learning with uncertainty analysis
+
+## Extra: TA Needed for Environmental Data Science — Spring 2026
 
 If you are interested in a TA position for the Environmental Data Science course, please contact Ahmed Elshall at [aelshall@fgcu.edu](mailto:aelshall@fgcu.edu).
 
