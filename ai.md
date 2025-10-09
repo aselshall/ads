@@ -26,7 +26,8 @@ This is another project that is funded by NSF [Link]. We have the method develop
 - **[Predicting Red Tides with LSTM and EnKF](https://github.com/aselshall/rm/blob/main/hw/projects/p41.md)**:  Involves enhancing harmful algal bloom mitigation through advanced machine learning with data assimilation
 - **[Scenario Analysis of Nutrient Loading Mitigation to Reduce Red Tide Risk](https://github.com/aselshall/rm/blob/main/hw/projects/p04.md)**: Involves enhancing harmful algal bloom mitigation through advanced machine learning with feature analysis
 - **[Analyzing the Role of Temperature in Red Tide Dynamics Using Machine Learning](https://github.com/aselshall/rm/blob/main/hw/projects/p03.md)**: Involves enhancing harmful algal bloom prediction through advanced machine learning with dynamic feature analysis 
-- **[Novel Deep Learning Architecture for Prediction and Uncertainty Analysis of Red Tide](https://github.com/aselshall/ads/blob/main/enkf.md)**: Improve harmful algal bloom prediction using deep learning with uncertainty analysis
+- **[Novel Deep Learning Architecture for Prediction and Uncertainty Analysis of Red Tide](https://github.com/aselshall/rm/blob/main/hw/projects/p42.md))**: Improve harmful algal bloom prediction using deep learning with uncertainty analysis
+
 
 ## Extra: TA Needed for Environmental Data Science — Spring 2026
 
