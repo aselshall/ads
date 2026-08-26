@@ -1,6 +1,6 @@
 # AI Projects Fall 2026
 
-## [Project 1 AI GI PLACE](https://mewcha1.github.io/NBI): Title
+## [Project 1 AI Green Infrastructure](https://mewcha1.github.io/NBI): Title
 
 ### Project Summary
 
