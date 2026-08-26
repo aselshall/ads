@@ -36,9 +36,9 @@ Download slides: [Link](https://github.com/aselshall/ads/blob/main/files/Dashboa
 - For more information please feel free to schedule a meeting with Ahmed Elshall using this [link](https://outlook.office.com/bookwithme/user/0ef6bb499a744b9baf3c2c5ba2e9bce0@fgcu.edu?anonymous&ep=bwmEmailSignature)
 
 
-## LA Needed for Environmental Data Science — Spring 2026
+## Learning Assistant (LA) for Environmental Data Science — Spring 2026
 
-If you are interested in a TA position for the Environmental Data Science course, please contact Ahmed Elshall at [aelshall@fgcu.edu](mailto:aelshall@fgcu.edu).
+If you are interested in a LA position for the Environmental Data Science course, please contact Ahmed Elshall at [aelshall@fgcu.edu](mailto:aelshall@fgcu.edu).
 
 - Course info: [https://aselshall.github.io/eds](https://aselshall.github.io/eds)
 - Course textbook: [https://aselshall.github.io/edsbook](https://aselshall.github.io/edsbook)
