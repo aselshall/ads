@@ -29,7 +29,8 @@ The LLM-powered decision-support dashboard is an innovation in stakeholder engag
 - Manuscript mentorship with the goal of a high quality **peer-reviewed publication** (beyond a capstone report)
 - Open-access publication fees covered
 - Travel support for 1 student (or 2 going together) to present at a national conference (e.g., AGU Fall Meeting, San Francisco - One week).
-
+- Service learning hours
+  
 ## Presentation
 Download slides: [Link](https://github.com/aselshall/ads/blob/main/files/Dashboard_presentation.pptx)
 
@@ -39,7 +40,7 @@ Download slides: [Link](https://github.com/aselshall/ads/blob/main/files/Dashboa
 - For more information please feel free to schedule a meeting with Ahmed Elshall using this [link](https://outlook.office.com/bookwithme/user/0ef6bb499a744b9baf3c2c5ba2e9bce0@fgcu.edu?anonymous&ep=bwmEmailSignature)
 
 
-## Extra: TA Needed for Environmental Data Science — Spring 2026
+## LA Needed for Environmental Data Science — Spring 2026
 
 If you are interested in a TA position for the Environmental Data Science course, please contact Ahmed Elshall at [aelshall@fgcu.edu](mailto:aelshall@fgcu.edu).
 
