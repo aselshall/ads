@@ -1,14 +1,14 @@
 # AI Projects Fall 2026
 
-## [Project 1 EPA - GI PLACE](https://mewcha1.github.io/NBI): Title
+## [Project 1 AI GI PLACE](https://mewcha1.github.io/NBI): Title
 
 ### Project Summary
 
-## [Project 2 EPA - Flooding](https://mewcha1.github.io/NBI): Title 
+## [Project 2 AI Flooding](https://mewcha1.github.io/NBI): Title 
 
 ### Project Summary
 
-## [Project 3 NSF Machine Learning and Red Tides ](https://atmos.eoas.fsu.edu/~mye/EarthSystemModeling.php):
+## [Project 3 ML Red Tides](https://atmos.eoas.fsu.edu/~mye/EarthSystemModeling.php):
 This is another project that is funded by NSF [Link]. We have the method developed and an exiting machine learning model that we want to extend and improve. We just need someone to do the work. For this project we offer the same as the other projec: Project data + existing ML model, close guidance and support from Ahmed Elshall, manuscrip mentorship (and we can have amny publications from this project), covering publication fess in reputable open-access journals, and travel support for 1 or 2 students to AGU. Here are some specific research questions that you will be working on:
 
 - **[Predicting Red Tides with LSTM and EnKF](https://github.com/aselshall/rm/blob/main/hw/projects/p41.md)**:  Involves enhancing harmful algal bloom mitigation through advanced machine learning with data assimilation
