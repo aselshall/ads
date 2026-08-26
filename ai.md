@@ -31,8 +31,8 @@ This is another project that is funded by NSF [Link]. We have the method develop
 Download slides: [Link](https://github.com/aselshall/ads/blob/main/files/Dashboard_presentation.pptx)
 
 
-## To Get Started
-- To get started, please contact Ahmed Elshall at [aelshall@fgcu.edu](mailto:aelshall@fgcu.edu) and Mewcha Gebremedhin at [mgebremedhin@fgcu.edu](mailto:mgebremedhin@fgcu.edu).
+## To Apply
+- Please contact Ahmed Elshall at [aelshall@fgcu.edu](mailto:aelshall@fgcu.edu) 
 - For more information please feel free to schedule a meeting with Ahmed Elshall using this [link](https://outlook.office.com/bookwithme/user/0ef6bb499a744b9baf3c2c5ba2e9bce0@fgcu.edu?anonymous&ep=bwmEmailSignature)
 
 
